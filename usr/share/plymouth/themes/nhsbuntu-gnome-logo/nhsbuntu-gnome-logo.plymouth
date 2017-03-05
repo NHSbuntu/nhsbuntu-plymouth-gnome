@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=NHSbuntu GNOME Logo
+Description=A theme that features an animated NHSbuntu GNOME logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/nhsbuntu-gnome-logo
+ScriptFile=/usr/share/plymouth/themes/nhsbuntu-gnome-logo/nhsbuntu-gnome-logo.script
