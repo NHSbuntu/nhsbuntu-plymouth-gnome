@@ -1,0 +1,8 @@
+# For dpkg-buildpackage output
+/debian/files
+/debian/debhelper-build-stamp
+/debian/*.debhelper
+/debian/*.log
+/debian/*.substvars
+/debian/plymouth-theme-nhsbuntu-gnome-logo
+/debian/plymouth-theme-nhsbuntu-gnome-text

@@ -1,0 +1,23 @@
+plymouth-theme-nhsbuntu-gnome (0.1.3) xenial; urgency=low
+
+  * Revised dependencies
+
+ -- Rob Dyke <rob@neovahealth.co.uk>  Sun, 5 Mar 2017 00:00:21 +0000
+
+plymouth-theme-nhsbuntu-gnome (0.1.2) xenial; urgency=low
+
+  * PPA
+
+ -- Rob Dyke <rob@neovahealth.co.uk>  Sun, 5 Mar 2017 00:00:21 +0000
+
+plymouth-theme-nhsbuntu-gnome (0.1.1) UNRELEASED; urgency=low
+
+  * Revised nhsbuntu plymouth
+
+ -- Rob Dyke <rob@neovahealth.co.uk>  Thu, 2 Mar 2017 22:33:21 +0000
+
+plymouth-theme-nhsbuntu-gnome (0.1.0) UNRELEASED; urgency=low
+
+  * Initial nhsbuntu plymouth
+
+ -- Rob Dyke <rob@neovahealth.co.uk>  Thu, 2 Mar 2017 21:33:21 +0000
