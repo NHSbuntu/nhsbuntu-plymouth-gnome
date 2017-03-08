@@ -1,16 +1,11 @@
-update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/nhsbuntu-logo/nhsbuntu-logo.plymouth 100
-update-alternatives --install /usr/share/plymouth/themes/text.plymouth text.plymouth /usr/share/plymouth/themes/nhsbuntu-text/nhsbuntu-text.plymouth 100
-update-alternatives --config default.plymouth
-update-alternatives --config text.plymouth
-update-initramfs -u
+# About
+These packages provide plymouth theme for NHSbuntu
 
+These themes are based on plymouth-theme-ubuntu-gnome-logo/text provided by ubuntu-gnome-default-settings
 
+Copyright:
+ Portions Copyright (C) 2011 Canonical Ltd
+ Portions Copyright (C) 2017 Open Health Hub CIC
+ Portions Copyright (C) 2017 Neova Health LLP.
 
-
-
-
-
-
-
-update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/nhsbuntu-gnome-logo/nhsbuntu-gnome-logo.plymouth 100
-update-alternatives --install /usr/share/plymouth/themes/text.plymouth text.plymouth /usr/share/plymouth/themes/nhsbuntu-gnome-text/nhsbuntu-gnome-text.plymouth 100
+License: GPL-3+
