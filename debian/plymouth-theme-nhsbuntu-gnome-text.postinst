@@ -20,7 +20,7 @@ case "$1" in
     configure|triggered)
 	# We remove leftover generated file from previous plymouth version. Can be removed on xenial+1
 	if dpkg --compare-versions "$2" le-nl "16.04.1~"; then
-	    rm -f /lib/plymouth/themes/nhsbuntu-gnome-text/nhsbuntu-gnome-text.plymouth
+	    rm -f /lib/plymouth/themes/ubuntu-gnome-text/ubuntu-gnome-text.plymouth
 	fi
 	# we keep that rmdir unconditional as we want to ensure that the dir is
 	# removed at some point (alternatives on other theme package removing
