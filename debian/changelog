@@ -1,3 +1,10 @@
+plymouth-theme-nhsbuntu-gnome (0.1.5) xenial; urgency=low
+
+  * Minor changes to install rules
+  * NHSbuntu GNOME Text using ModuleName=ubuntu-text
+
+ -- Rob Dyke <rob@neovahealth.co.uk>  Wed, 17 May 2017 22:00:21 +0000
+
 plymouth-theme-nhsbuntu-gnome (0.1.4) xenial; urgency=low
 
   * Minor fixup to text theme

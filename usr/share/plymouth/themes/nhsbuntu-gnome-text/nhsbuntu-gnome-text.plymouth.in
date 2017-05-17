@@ -1,9 +1,9 @@
 [Plymouth Theme]
 Name=NHSbuntu GNOME Text
 Description=Text mode theme based on nhsbuntu-gnome-logo theme
-ModuleName=nhsbuntu-text
+ModuleName=ubuntu-text
 
-[nhsbuntu-text]
+[ubuntu-text]
 title=NHSbuntu GNOME
 black=0x2d3335
 white=0xffffff
